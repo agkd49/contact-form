@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  color: black;
+  text-align: center;
+}
+
+.p1 {
+  font-family: Monserrat, sans-serif;
+  color: gray;
+  font-size: 18px;
+  text-align: center;
+}
+
+body { background-color: transparent; }
+
+</style>
+</head>
+<body>
+
+
+<p class="p1">Success!</p>
+<p class="p1">We look forward to reading your message. :)</p>
+<p class="p1"><i>- Alicia and Harinder</i></p><br>
+
+
+</body>
+</html>
